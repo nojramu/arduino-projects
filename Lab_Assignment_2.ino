@@ -14,8 +14,8 @@
 // Buzzer Assigment
 #define BZR 4
 
-const char* ssid = "HMD Pulse Pro"; // Change based on router
-const char* password = "pinapples";
+const char* ssid = "SSID"; // Change based on router
+const char* password = "password";
 
 int BSTATE0;
 int BSTATE1;
